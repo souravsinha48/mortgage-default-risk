@@ -1,8 +1,5 @@
-# Freddie Mac data
-data/*
-
-# Keep empty data folder
-!data/.gitkeep
+# Ignore all data
+data/
 
 # Jupyter
 .ipynb_checkpoints/
