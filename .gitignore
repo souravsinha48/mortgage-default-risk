@@ -1,0 +1,20 @@
+# Freddie Mac data
+data/*
+
+# Keep empty data folder
+!data/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.joblib
+*.parquet
+
+# Mac
+.DS_Store
